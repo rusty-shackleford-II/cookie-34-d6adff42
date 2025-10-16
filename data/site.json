@@ -1,87 +1,87 @@
 {
   "seo": {
-    "metaTitle": "This is the Meta Title in the SEO section",
-    "metaDescription": "And this is the Meta Description. ",
-    "canonicalUrl": "https://www.solarpanelslebanon.com",
-    "ogImageUrl": "ERROR: Existing image not accessible for ogImageUrl (400)",
+    "metaTitle": "Eager Plumbing LLC | Plumbing Services in Kerrville, TX",
+    "metaDescription": "Eager Plumbing LLC offers full-service plumbing in Kerrville, TX. New construction, remodels, and 24/7 emergency services. Call us today!",
+    "canonicalUrl": "https://www.example5.com",
+    "ogImageUrl": "",
     "searchResultsIcon": "ERROR: Existing image not accessible for searchResultsIcon (400)",
-    "primaryService": "Laundry",
-    "primaryCity": "San Mateo",
+    "primaryService": "Plumbing",
+    "primaryCity": "Kerrville",
     "googleAnalyticsId": ""
   },
   "businessInfo": {
-    "businessName": "Wash Cafe",
-    "businessCategory": "LaundryService",
+    "businessName": "Eager Plumbing LLC",
+    "businessCategory": "PlumbingService",
     "address": {
-      "streetAddress": "127 Robert E Lee",
-      "addressLocality": "Hunt",
+      "streetAddress": "418 Clay St",
+      "addressLocality": "Kerrville",
       "addressRegion": "TX",
-      "postalCode": "78024",
+      "postalCode": "78028",
       "addressCountry": "US"
     },
-    "phone": "+16503425363",
-    "email": "info@washcafe.com",
+    "phone": "+18309997473",
+    "email": "info@eagerplumbingtx.com",
     "paymentAccepted": [
       "Cash",
       "Credit Card",
       "Check"
     ],
-    "areaServed": "San Mateo & Burlingame",
+    "areaServed": "Kerrville and surrounding areas",
     "availableLanguages": [
       "English"
     ],
     "priceRange": "$$",
     "businessHours": {
       "Monday": {
-        "open": "7:00 AM",
-        "close": "5:00 PM"
+        "open": "12:00 AM",
+        "close": "11:59 PM"
       },
       "Tuesday": {
-        "open": "7:00 AM",
-        "close": "5:00 PM"
+        "open": "12:00 AM",
+        "close": "11:59 PM"
       },
       "Wednesday": {
-        "open": "7:00 AM",
-        "close": "5:00 PM"
+        "open": "12:00 AM",
+        "close": "11:59 PM"
       },
       "Thursday": {
-        "open": "7:00 AM",
-        "close": "5:00 PM"
+        "open": "12:00 AM",
+        "close": "11:59 PM"
       },
       "Friday": {
-        "open": "7:00 AM",
-        "close": "5:00 PM"
+        "open": "12:00 AM",
+        "close": "11:59 PM"
       },
       "Saturday": {
-        "open": "7:00 AM",
-        "close": "5:00 PM"
+        "open": "12:00 AM",
+        "close": "11:59 PM"
       },
       "Sunday": {
-        "open": "7:00 AM",
-        "close": "5:00 PM"
+        "open": "12:00 AM",
+        "close": "11:59 PM"
       }
     }
   },
-  "logoUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/logo_2025-09-27T15-10-27.jpg",
+  "logoUrl": "",
   "header": {
     "showLogo": true,
+    "logoSize": 1.5,
     "colors": {
       "brandText": "#111827",
       "navText": "#374151"
-    },
-    "logoSize": 2.5
+    }
   },
   "hero": {
-    "heroLargeImageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/hero_2025-10-03T02-35-52.jpg",
-    "headline": "The Best Laundry Cafe in the Bay Area!",
-    "subheadline": "Where fresh laundry meets fresh coffee — relax while we handle the wash. Come try the Bay Area's safest laundry cafe. We're open 24/7 so our door is always open for you!",
+    "heroLargeImageUrl": "",
+    "headline": "Eager Plumbing LLC - Your Trusted Plumbing Experts",
+    "subheadline": "Providing top-notch plumbing services to Kerrville and the surrounding Hill Country region.",
     "cta": {
-      "label": "Learn More",
-      "actionType": "contact",
+      "label": "Call Us Today",
+      "actionType": "phone",
       "href": "",
-      "phoneNumber": ""
+      "phoneNumber": "+18309997473"
     },
-    "phone": "+16503425363",
+    "phone": "+18309997473",
     "colors": {
       "headline": "#ffffff",
       "subheadline": "#ffffff",
@@ -91,58 +91,42 @@
     "mediaType": "photo",
     "video": {
       "provider": "vimeo",
-      "url": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/394353671?h=d1cebace6d\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\"   allowfullscreen></iframe>",
+      "url": "&lt;iframe title=&quot;vimeo-player&rdquo; src=&quot;https://player.vimeo.com/video/394353671?h=d1cebace6d&rdquo; width=&quot;640&rdquo; height=&quot;360&rdquo; frameborder=&quot;0&rdquo; referrerpolicy=&quot;strict-origin-when-cross-origin&rdquo; allow=&quot;autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share&rdquo;   allowfullscreen&gt;&lt;/iframe&gt;",
       "autoplay": true,
       "controls": false,
       "loop": true,
       "muted": true
     },
-    "subheadlineTextSize": "1.675",
-    "headlineTextSize": "4.75",
+    "subheadlineTextSize": "1.5",
+    "headlineTextSize": "4.0",
     "heroImages": [
-      "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/hero-image-0_2025-10-03T02-35-52.jpg",
-      "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/hero-image-1_2025-10-03T02-35-53.jpg"
+      "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/stock-photos/1_3.jpg",
+      "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/stock-photos/11_3.jpg"
     ],
     "layoutStyle": "fullwidth-overlay",
     "overlayTextColor": "white",
-    "overlayBlur": true,
+    "overlayBlur": false,
     "subheadlineBold": "true",
-    "subheadlineAlign": "left",
-    "headlineAlign": "left",
-    "ctaAlign": "left"
+    "subheadlineAlign": "center",
+    "headlineAlign": "center",
+    "ctaAlign": "center",
+    "slideshowInterval": 4000
   },
   "about": {
-    "title": "About Wash Cafe",
-    "description": "At Wash Café in San Mateo, we combine the comfort of a neighborhood café with the convenience of modern laundry services. Whether you’re here to sip on a latte, catch up on work, or simply unwind, you’ll enjoy a welcoming space where your laundry gets done quickly, cleanly, and stress-free. Our mission is to make laundry day something you look forward to.",
+    "title": "About Eager Plumbing LLC",
+    "description": "At Eager Plumbing LLC, we are dedicated to providing top-notch plumbing services in Kerrville, TX, and the surrounding Hill Country region. With years of experience in both new construction and remodel plumbing, our mission is to ensure your plumbing needs are met with the utmost professionalism and care. Our team is committed to delivering quality service that you can trust, whether it's a minor repair or a major installation. We pride ourselves on our reliability, transparency, and customer satisfaction.",
     "statistics": [],
     "features": [
-      "Upfront, Transparent Pricing: No hidden fees or surprises.",
-      "24/7 Services: We're here when you need us.",
-      "Licensed and Insured: Your clothes are safe with us.",
-      "Commitment to Sustainable Practices: Environmentally conscious solutions.",
-      "Gourmet coffee and bagels.",
-      "Breakfast, lunch and dinner menus. "
+      "Full Service Plumbing Solutions",
+      "Experienced and Licensed Professionals",
+      "24/7 Emergency Services Available",
+      "Transparent Pricing: No Hidden Fees",
+      "Customer Satisfaction Guaranteed"
     ],
     "images": [
       {
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/about-1_2025-09-23T17-22-56.jpg",
-        "alt": "About image 1",
-        "thumbnailUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/about-1-thumb_2025-09-23T17-22-56.jpg"
-      },
-      {
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/about-2_2025-09-23T17-22-57.jpg",
-        "alt": "About image 2",
-        "thumbnailUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/about-2-thumb_2025-09-23T17-22-58.jpg"
-      },
-      {
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/about-3_2025-09-23T17-22-58.jpg",
-        "alt": "About image 3",
-        "thumbnailUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/about-3-thumb_2025-09-23T17-22-59.jpg"
-      },
-      {
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/about-4_2025-09-23T17-23-01.jpg",
-        "alt": "About image 4",
-        "thumbnailUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/about-4-thumb_2025-09-23T17-23-03.jpg"
+        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/bulk-photo-uploads/13a6e2bdc87fb1f2/photo-0-1760626638049.webp",
+        "alt": "Welcoming plumber in uniform"
       }
     ],
     "descriptionTextSize": "1.125",
@@ -152,98 +136,119 @@
     "layoutStyle": "standard"
   },
   "services": {
-    "title": "Our Services",
-    "subtitle": "Professional solutions tailored to your needs",
+    "title": "Our Plumbing Services",
+    "subtitle": "Full-service plumbing solutions for your needs",
     "items": [
       {
-        "id": "umcpa3wsu9t",
-        "title": "Cafe",
-        "description": "Enjoy a nice brew in our 5 star coffee lounge.",
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/service-umcpa3wsu9t_2025-09-23T17-22-52.jpg",
-        "alt": "cafe service"
+        "id": "service-emergency-repairs",
+        "title": "Emergency Plumbing Repairs",
+        "description": "We provide 24/7 emergency plumbing services to address any urgent issues. Our experienced plumbers are ready to tackle leaks, clogs, and more.",
+        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/bulk-photo-uploads/13a6e2bdc87fb1f2/photo-1-1760626638049.webp",
+        "alt": "Emergency plumbing service"
       },
       {
-        "id": "yzjx6itxk3",
-        "title": "Laundry",
-        "description": "Top of the line washing machines. Coin operated but also accept card.",
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/service-yzjx6itxk3_2025-09-23T17-22-53.jpg",
-        "alt": "laundrymachines service"
+        "id": "service-water-heater-installation",
+        "title": "Water Heater Installation",
+        "description": "Expert installation of all types of water heaters, ensuring you have reliable hot water when you need it.",
+        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/stock-photos/10_3.jpg",
+        "alt": "Water heater installation"
       },
       {
-        "id": "hic3v9kpnkj",
-        "title": "Drying",
-        "description": "Top of the line drying machines. Coin operated but also accept card.",
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/service-hic3v9kpnkj_2025-09-23T17-22-55.jpg",
-        "alt": "dryingmachine service"
+        "id": "service-drain-cleaning",
+        "title": "Drain Cleaning Services",
+        "description": "Professional drain cleaning services to prevent clogs and ensure smooth drainage in your home.",
+        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/stock-photos/1_3.jpg",
+        "alt": "Drain cleaning service"
+      },
+      {
+        "id": "service-plumbing-maintenance",
+        "title": "Plumbing Maintenance",
+        "description": "Regular maintenance checks to keep your plumbing system in top condition and prevent costly repairs.",
+        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/stock-photos/10_3.jpg",
+        "alt": "Plumbing maintenance service"
       }
     ]
   },
   "businessBenefits": {
-    "title": "Why Choose Wash Cafe",
+    "title": "Why Choose Eager Plumbing LLC",
     "items": [
       {
-        "title": "One Stop Convenience",
-        "description": "Take care of your laundry and enjoy a great cup of coffee in a single visit, saving you valuable time."
+        "title": "Full-Service Plumbing",
+        "description": "We handle everything from new construction to remodel plumbing, ensuring all your needs are met."
       },
       {
-        "title": "Modern Comfort",
-        "description": "Relax in a clean, stylish, and welcoming environment designed to make laundry day enjoyable."
+        "title": "24/7 Availability",
+        "description": "Our team is available around the clock to tackle any plumbing emergencies that arise."
       },
       {
-        "title": "Expert Laundry Care",
-        "description": "Your clothes are treated with professional-level cleaning and handling for the best results."
+        "title": "Trusted Professionals",
+        "description": "Our licensed and insured plumbers have extensive experience and a proven track record in the Hill Country."
       },
       {
-        "title": "Connected Lounge",
-        "description": "Stay productive while you wait with complimentary Wi-Fi and ample workspace-friendly areas."
+        "title": "Transparent Pricing",
+        "description": "We provide upfront estimates with no hidden fees so you can trust what you pay for."
       },
       {
-        "title": "Eco-Smart Machines",
-        "description": "We use high-efficiency washers and dryers that are gentle on your clothes and the environment."
+        "title": "Community Focused",
+        "description": "As a local business, we prioritize our community and deliver personalized service that sets us apart."
       },
       {
-        "title": "Community Hub",
-        "description": "More than just laundry — it’s a place to multitask, socialize, or simply take a break while chores get done."
+        "title": "Customer Satisfaction",
+        "description": "We strive for excellence in every job, ensuring our customers are not just satisfied but delighted with our work."
       }
     ]
   },
   "testimonials": {
-    "title": "What Our Clients Say",
-    "subtitle": "Don't just take our word for it. Here's what our satisfied clients have to say about our professional services.",
+    "title": "What Our Customers Say",
+    "subtitle": "Don't just take our word for it - hear from our satisfied customers",
     "items": [
       {
-        "authorImageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/testimonial-1_2025-09-27T15-10-31.png",
-        "authorName": "Wendy G",
+        "authorName": "Monica",
         "rating": 5,
-        "reviewDate": "5 months",
-        "reviewText": "\"Such a smart idea! I grabbed a latte, got some work done with the free Wi-Fi, and my laundry was finished before I knew it. Super clean and welcoming spot.\""
+        "reviewDate": "1 month ago",
+        "reviewText": "Eager plumbing is amazing! I called and they were able to install a new water heater at my home. The price and service can’t be beat. Very friendly and experienced staff! Will definitely use again...",
+        "authorImageUrl": "/testimonial-1_2025-10-16T15-00-51.jpg"
       },
       {
-        "authorImageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/testimonial-2_2025-09-27T15-10-33.png",
-        "authorName": "Vivian Yeh",
+        "authorName": "Johnny Lara",
         "rating": 5,
-        "reviewDate": "6 months",
-        "reviewText": "“Best laundry experience I’ve ever had. The machines are fast and eco-friendly, and the staff folded everything perfectly. Plus, the coffee is actually amazing!”"
+        "reviewDate": "2 months ago",
+        "reviewText": "Excellent experience from start to finish. The plumber was on time, polite, and clearly experienced. They explained everything clearly and got the job done. I felt confident in their work and will definitely use them again.",
+        "authorImageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/11_3.jpg"
       },
       {
-        "authorImageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/testimonial-3_2025-09-27T15-10-34.png",
-        "authorName": "Nikki Pavis",
+        "authorName": "Dan Wilson",
         "rating": 5,
-        "reviewDate": "2 months",
-        "reviewText": "“I love coming here on weekends. It feels more like a cozy café than a laundromat, and I always run into friendly people. Makes laundry day fun instead of a chore.”"
+        "reviewDate": "3 months ago",
+        "reviewText": "Well done replaced washer valves and fixed toilet tank gasket while here. Saving call out charges plus senior savings. Super qualified workers with an organized truck.",
+        "authorImageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/11_3.jpg"
+      },
+      {
+        "authorName": "Lisa Webb",
+        "rating": 5,
+        "reviewDate": "4 months ago",
+        "reviewText": "Guys were on time, fixed the problem very quickly. Very professional and friendly. I got a senior discount without even asking. Highly recommend this company.",
+        "authorImageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/11_3.jpg"
+      },
+      {
+        "authorName": "Mary Helen Johnson",
+        "rating": 5,
+        "reviewDate": "5 months ago",
+        "reviewText": "The men arrived right on time. Very pleasant, polite and efficient. Got the job done quickly. Couldn’t ask for more! Thank you Eager Plumbing!",
+        "authorImageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/site-photos/11_3.jpg"
       }
     ]
   },
   "contact": {
     "title": "Contact Us",
     "subtitle": "Get in touch with us today. We're here to help with all your needs.",
-    "address": "127 Robert E Lee, Hunt, TX 78024",
-    "phone": "+16503425363",
-    "email": "info@cacciaplumbing.com",
+    "address": "418 Clay St, Kerrville, TX 78028",
+    "phone": "+18309997473",
+    "email": "info@eagerplumbingtx.com",
     "contactRecipients": [
       "support@washcafe.com"
     ],
-    "mapEmbedUrl": "https://maps.google.com/maps?width=100%25&height=600&hl=en&q=127%20Robert%20E%20Lee%2C%20Hunt%2C%20TX%2078024&t=&z=14&ie=UTF8&iwloc=B&output=embed&_t=1758658270229",
+    "mapEmbedUrl": "https://maps.google.com/maps?width=100%25&height=600&hl=en&q=418+Clay+St%2C+Kerrville%2C+TX+78028&t=&z=14&ie=UTF8&iwloc=B&output=embed&_t=1760626698796",
     "social": {
       "facebook": "",
       "twitter": "",
@@ -262,26 +267,56 @@
     },
     "consentText": "By checking this box, you agree to receive communications from us.",
     "showConsent": false,
-    "consentRequiresCheckbox": true
+    "consentRequiresCheckbox": true,
+    "businessHours": {
+      "Thursday": {
+        "open": "7:00 AM",
+        "close": "5:00 PM"
+      },
+      "Friday": {
+        "open": "7:00 AM",
+        "close": "5:00 PM"
+      },
+      "Saturday": {
+        "open": "7:00 AM",
+        "close": "5:00 PM"
+      },
+      "Sunday": {
+        "open": "7:00 AM",
+        "close": "5:00 PM"
+      },
+      "Monday": {
+        "open": "7:00 AM",
+        "close": "5:00 PM"
+      },
+      "Tuesday": {
+        "open": "7:00 AM",
+        "close": "5:00 PM"
+      },
+      "Wednesday": {
+        "open": "7:00 AM",
+        "close": "5:00 PM"
+      }
+    }
   },
   "footer": {
     "socialLinks": [
       {
         "platform": "instagram",
-        "url": "https://instagram.com/yourbusiness"
+        "url": "https://instagram.com/eagerplumbingllc"
       },
       {
         "platform": "facebook",
-        "url": "https://facebook.com/yourbusiness"
+        "url": "https://facebook.com/eagerplumbingllc"
       },
       {
         "platform": "linkedin",
-        "url": "https://linkedin.com/company/yourbusiness"
+        "url": "https://linkedin.com/company/eagerplumbingllc"
       }
     ],
     "showPrivacyPolicy": true,
     "showTermsAndConditions": true,
-    "privacyPolicyText": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\" />\n  <title>Privacy Policy</title>\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n  <meta name=\"robots\" content=\"noindex,follow\" />\n  <style>\n    :root { color-scheme: light dark; }\n    body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.6; }\n    header, main, footer { max-width: 820px; margin: 0 auto; padding: 1.25rem; }\n    h1, h2, h3 { line-height: 1.25; }\n    h1 { font-size: 1.9rem; margin: 1rem 0; }\n    h2 { font-size: 1.35rem; margin-top: 2rem; }\n    h3 { font-size: 1.1rem; margin-top: 1.25rem; }\n    p, li { font-size: 1rem; }\n    ul { padding-left: 1.2rem; }\n    code { background: rgba(127,127,127,.15); padding: .1rem .25rem; border-radius: 4px; }\n    .meta { color: #666; font-size: .95rem; }\n    .notice { background: rgba(255, 230, 0, 0.12); border-left: 4px solid #e0c200; padding: .75rem; margin: 1rem 0; }\n    a { color: #0b6; text-decoration: none; }\n    a:hover { text-decoration: underline; }\n    footer { color: #666; font-size: .95rem; }\n  </style>\n</head>\n<body>\n  <header>\n    <h1>Privacy Policy</h1>\n    <p class=\"meta\">Effective date: <time datetime=\"2025-10-08\">October 8, 2025</time></p>\n    <p class=\"meta\">Controller: Example Company LLC, 123 Example Ave, Sample City, CA 90000, US · Email: privacy@example.com</p>\n    <div class=\"notice\">\n      This policy explains what data is collected, how it is used and shared, and the rights available under applicable laws such as GDPR and CCPA/CPRA. \n    </div>\n  </header>\n\n  <main>\n    <section id=\"scope\">\n      <h2>Scope</h2>\n      <p>This policy applies to the website and mobile applications operated by Example Company LLC and related services provided globally.</p>\n    </section>\n\n    <section id=\"data-we-collect\">\n      <h2>Data We Collect</h2>\n      <ul>\n        <li>Account data: name, email, username, password (hashed).</li>\n        <li>Usage data: IP address, device and browser, pages viewed, timestamps.</li>\n        <li>Transaction data: orders, billing details, limited payment metadata via processor.</li>\n        <li>Marketing preferences: subscriptions and communication settings.</li>\n        <li>Cookies/trackers: identifiers for analytics, functionality, and ads where applicable.</li>\n      </ul>\n      <p>Data is collected directly, automatically through the service, and from service providers as described below.</p>\n    </section>\n\n    <section id=\"purposes-legal-bases\">\n      <h2>Purposes and Legal Bases</h2>\n      <ul>\n        <li>Provide and maintain services (Contract).</li>\n        <li>Security, fraud prevention, and debugging (Legitimate interests).</li>\n        <li>Compliance with legal obligations (Legal obligation).</li>\n        <li>Analytics and improvement (Legitimate interests or Consent, depending on jurisdiction).</li>\n        <li>Marketing communications (Consent, with opt-out options).</li>\n      </ul>\n    </section>\n\n    <section id=\"how-we-process\">\n      <h2>How We Process</h2>\n      <p>Data is processed via forms, account features, automatic logs, cookies, and third-party processors (e.g., payments, analytics, hosting, email delivery).</p>\n      <p>No automated decision-making or profiling with legal effects is performed unless stated otherwise.</p>\n    </section>\n\n    <section id=\"sharing\">\n      <h2>Sharing and Disclosures</h2>\n      <ul>\n        <li>Payment processors to process transactions.</li>\n        <li>Analytics providers to measure and improve performance.</li>\n        <li>Cloud hosting and storage vendors to deliver the service.</li>\n        <li>Email service providers for transactional and marketing emails.</li>\n      </ul>\n      <p>Disclosures may occur for legal compliance, to protect rights and safety, or during business transfers.</p>\n    </section>\n\n    <section id=\"rights\">\n      <h2>Your Rights</h2>\n      <p>Depending on location, rights may include access, rectification, erasure, restriction, portability, objection, and the right to withdraw consent.</p>\n      <p>To exercise rights, send a request to privacy@example.com. Reasonable identity verification may be required. Responses are provided within the timeframes set by law.</p>\n    </section>\n\n    <section id=\"retention\">\n      <h2>Data Retention</h2>\n      <ul>\n        <li>Account data is retained for the life of the account and a reasonable period thereafter.</li>\n        <li>Transaction records are retained for statutory periods (for example, up to 7 years).</li>\n        <li>Usage and cookie data is retained per cookie lifetimes or aggregated/anonymized.</li>\n      </ul>\n    </section>\n\n    <section id=\"security\">\n      <h2>Security</h2>\n      <p>Measures include TLS encryption in transit, access controls, monitoring and logging, and vendor due diligence including DPAs where required.</p>\n      <p>No method of transmission or storage is completely secure, and residual risk cannot be eliminated.</p>\n    </section>\n\n    <section id=\"cookies\">\n      <h2>Cookies and Tracking</h2>\n      <p>Types include strictly necessary, functional, analytics, and advertising cookies. Non-essential cookies may require consent depending on jurisdiction.</p>\n      <p>Preferences can be managed via the cookie banner or browser settings, and can be changed at any time.</p>\n    </section>\n\n    <section id=\"transfers\">\n      <h2>International Transfers</h2>\n      <p>Where data is transferred internationally, appropriate safeguards such as Standard Contractual Clauses or adequacy decisions are used.</p>\n    </section>\n\n    <section id=\"children\">\n      <h2>Children’s Privacy</h2>\n      <p>The service is not directed to children below applicable age thresholds, and data is not knowingly collected from them.</p>\n    </section>\n\n    <section id=\"changes\">\n      <h2>Changes to This Policy</h2>\n      <p>Material changes will be posted with an updated effective date, and additional notice may be provided where required.</p>\n    </section>\n\n    <section id=\"contact\">\n      <h2>Contact</h2>\n      <p>Questions or requests: privacy@example.com. Individuals may have the right to lodge a complaint with a supervisory authority in their jurisdiction.</p>\n    </section>\n\n    <hr />\n\n    <section id=\"jurisdictional-notices\">\n      <h2>Jurisdictional Notices</h2>\n\n      <h3>GDPR (EEA/UK)</h3>\n      <ul>\n        <li>Lawful bases are listed above; data subjects have the rights listed in the Rights section.</li>\n        <li>Transfers outside the EEA/UK rely on appropriate safeguards such as SCCs or adequacy decisions.</li>\n      </ul>\n\n      <h3>California (CCPA/CPRA)</h3>\n      <ul>\n        <li>California residents have rights to know, delete, correct, and opt out of sale or sharing of personal information.</li>\n        <li>Two or more methods will be provided to submit requests; an opt-out mechanism is available for targeted advertising where applicable.</li>\n      </ul>\n    </section>\n  </main>\n\n  <footer>\n    © <span id=\"year\"></span> Example Company LLC\n  </footer>\n\n  <script>\n    document.getElementById('year').textContent = new Date().getFullYear();\n  </script>\n</body>\n</html>\n"
+    "privacyPolicyText": "&lt;!doctype html&gt;\n&lt;html lang=&quot;en&quot;&gt;\n&lt;head&gt;\n  &lt;meta charset=&quot;utf-8&rdquo; /&gt;\n  &lt;title&gt;Privacy Policy&lt;/title&gt;\n  &lt;meta name=&quot;viewport&rdquo; content=&quot;width=device-width, initial-scale=1&rdquo; /&gt;\n  &lt;meta name=&quot;robots&rdquo; content=&quot;noindex,follow&rdquo; /&gt;\n  &lt;style&gt;\n    :root { color-scheme: light dark; }\n    body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.6; }\n    header, main, footer { max-width: 820px; margin: 0 auto; padding: 1.25rem; }\n    h1, h2, h3 { line-height: 1.25; }\n    h1 { font-size: 1.9rem; margin: 1rem 0; }\n    h2 { font-size: 1.35rem; margin-top: 2rem; }\n    h3 { font-size: 1.1rem; margin-top: 1.25rem; }\n    p, li { font-size: 1rem; }\n    ul { padding-left: 1.2rem; }\n    code { background: rgba(127,127,127,.15); padding: .1rem .25rem; border-radius: 4px; }\n    .meta { color: #666; font-size: .95rem; }\n    .notice { background: rgba(255, 230, 0, 0.12); border-left: 4px solid #e0c200; padding: .75rem; margin: 1rem 0; }\n    a { color: #0b6; text-decoration: none; }\n    a:hover { text-decoration: underline; }\n    footer { color: #666; font-size: .95rem; }\n  &lt;/style&gt;\n&lt;/head&gt;\n&lt;body&gt;\n  &lt;header&gt;\n    &lt;h1&gt;Privacy Policy&lt;/h1&gt;\n    &lt;p class=&quot;meta&quot;&gt;Effective date: &lt;time datetime=&quot;2025-10-08&quot;&gt;October 8, 2025&lt;/time&gt;&lt;/p&gt;\n    &lt;p class=&quot;meta&quot;&gt;Controller: Eager Plumbing LLC, 418 Clay St, Kerrville, TX 78028, US · Email: privacy@eagerplumbingtx.com&lt;/p&gt;\n    &lt;div class=&quot;notice&quot;&gt;\n      This policy explains what data is collected, how it is used and shared, and the rights available under applicable laws such as GDPR and CCPA/CPRA. \n    &lt;/div&gt;\n  &lt;/header&gt;\n\n  &lt;main&gt;\n    &lt;section id=&quot;scope&quot;&gt;\n      &lt;h2&gt;Scope&lt;/h2&gt;\n      &lt;p&gt;This policy applies to the website and mobile applications operated by Eager Plumbing LLC and related services provided globally.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;data-we-collect&quot;&gt;\n      &lt;h2&gt;Data We Collect&lt;/h2&gt;\n      &lt;ul&gt;\n        &lt;li&gt;Account data: name, email, username, password (hashed).&lt;/li&gt;\n        &lt;li&gt;Usage data: IP address, device and browser, pages viewed, timestamps.&lt;/li&gt;\n        &lt;li&gt;Transaction data: orders, billing details, limited payment metadata via processor.&lt;/li&gt;\n        &lt;li&gt;Marketing preferences: subscriptions and communication settings.&lt;/li&gt;\n        &lt;li&gt;Cookies/trackers: identifiers for analytics, functionality, and ads where applicable.&lt;/li&gt;\n      &lt;/ul&gt;\n      &lt;p&gt;Data is collected directly, automatically through the service, and from service providers as described below.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;purposes-legal-bases&quot;&gt;\n      &lt;h2&gt;Purposes and Legal Bases&lt;/h2&gt;\n      &lt;ul&gt;\n        &lt;li&gt;Provide and maintain services (Contract).&lt;/li&gt;\n        &lt;li&gt;Security, fraud prevention, and debugging (Legitimate interests).&lt;/li&gt;\n        &lt;li&gt;Compliance with legal obligations (Legal obligation).&lt;/li&gt;\n        &lt;li&gt;Analytics and improvement (Legitimate interests or Consent, depending on jurisdiction).&lt;/li&gt;\n        &lt;li&gt;Marketing communications (Consent, with opt-out options).&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;how-we-process&quot;&gt;\n      &lt;h2&gt;How We Process&lt;/h2&gt;\n      &lt;p&gt;Data is processed via forms, account features, automatic logs, cookies, and third-party processors (e.g., payments, analytics, hosting, email delivery).&lt;/p&gt;\n      &lt;p&gt;No automated decision-making or profiling with legal effects is performed unless stated otherwise.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;sharing&quot;&gt;\n      &lt;h2&gt;Sharing and Disclosures&lt;/h2&gt;\n      &lt;ul&gt;\n        &lt;li&gt;Payment processors to process transactions.&lt;/li&gt;\n        &lt;li&gt;Analytics providers to measure and improve performance.&lt;/li&gt;\n        &lt;li&gt;Cloud hosting and storage vendors to deliver the service.&lt;/li&gt;\n        &lt;li&gt;Email service providers for transactional and marketing emails.&lt;/li&gt;\n      &lt;/ul&gt;\n      &lt;p&gt;Disclosures may occur for legal compliance, to protect rights and safety, or during business transfers.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;rights&quot;&gt;\n      &lt;h2&gt;Your Rights&lt;/h2&gt;\n      &lt;p&gt;Depending on location, rights may include access, rectification, erasure, restriction, portability, objection, and the right to withdraw consent.&lt;/p&gt;\n      &lt;p&gt;To exercise rights, send a request to privacy@eagerplumbingtx.com. Reasonable identity verification may be required. Responses are provided within the timeframes set by law.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;retention&quot;&gt;\n      &lt;h2&gt;Data Retention&lt;/h2&gt;\n      &lt;ul&gt;\n        &lt;li&gt;Account data is retained for the life of the account and a reasonable period thereafter.&lt;/li&gt;\n        &lt;li&gt;Transaction records are retained for statutory periods (for example, up to 7 years).&lt;/li&gt;\n        &lt;li&gt;Usage and cookie data is retained per cookie lifetimes or aggregated/anonymized.&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;security&quot;&gt;\n      &lt;h2&gt;Security&lt;/h2&gt;\n      &lt;p&gt;Measures include TLS encryption in transit, access controls, monitoring and logging, and vendor due diligence including DPAs where required.&lt;/p&gt;\n      &lt;p&gt;No method of transmission or storage is completely secure, and residual risk cannot be eliminated.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;cookies&quot;&gt;\n      &lt;h2&gt;Cookies and Tracking&lt;/h2&gt;\n      &lt;p&gt;Types include strictly necessary, functional, analytics, and advertising cookies. Non-essential cookies may require consent depending on jurisdiction.&lt;/p&gt;\n      &lt;p&gt;Preferences can be managed via the cookie banner or browser settings, and can be changed at any time.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;transfers&quot;&gt;\n      &lt;h2&gt;International Transfers&lt;/h2&gt;\n      &lt;p&gt;Where data is transferred internationally, appropriate safeguards such as Standard Contractual Clauses or adequacy decisions are used.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;children&quot;&gt;\n      &lt;h2&gt;Children’s Privacy&lt;/h2&gt;\n      &lt;p&gt;The service is not directed to children below applicable age thresholds, and data is not knowingly collected from them.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;changes&quot;&gt;\n      &lt;h2&gt;Changes to This Policy&lt;/h2&gt;\n      &lt;p&gt;Material changes will be posted with an updated effective date, and additional notice may be provided where required.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;section id=&quot;contact&quot;&gt;\n      &lt;h2&gt;Contact&lt;/h2&gt;\n      &lt;p&gt;Questions or requests: privacy@eagerplumbingtx.com. Individuals may have the right to lodge a complaint with a supervisory authority in their jurisdiction.&lt;/p&gt;\n    &lt;/section&gt;\n\n    &lt;hr /&gt;\n\n    &lt;section id=&quot;jurisdictional-notices&quot;&gt;\n      &lt;h2&gt;Jurisdictional Notices&lt;/h2&gt;\n\n      &lt;h3&gt;GDPR (EEA/UK)&lt;/h3&gt;\n      &lt;ul&gt;\n        &lt;li&gt;Lawful bases are listed above; data subjects have the rights listed in the Rights section.&lt;/li&gt;\n        &lt;li&gt;Transfers outside the EEA/UK rely on appropriate safeguards such as SCCs or adequacy decisions.&lt;/li&gt;\n      &lt;/ul&gt;\n\n      &lt;h3&gt;California (CCPA/CPRA)&lt;/h3&gt;\n      &lt;ul&gt;\n        &lt;li&gt;California residents have rights to know, delete, correct, and opt out of sale or sharing of personal information.&lt;/li&gt;\n        &lt;li&gt;Two or more methods will be provided to submit requests; an opt-out mechanism is available for targeted advertising where applicable.&lt;/li&gt;\n      &lt;/ul&gt;\n    &lt;/section&gt;\n  &lt;/main&gt;\n\n  &lt;footer&gt;\n    \u001690 2025 Eager Plumbing LLC\n  &lt;/footer&gt;\n\n  &lt;script&gt;\n    document.getElementById('year').textContent = new Date().getFullYear();\n  &lt;/script&gt;\n&lt;/body&gt;\n&lt;/html&gt;\n"
   },
   "layout": {
     "sections": [
@@ -299,7 +334,7 @@
       },
       {
         "id": "menu",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "testimonials",
@@ -307,7 +342,7 @@
       },
       {
         "id": "upcomingEvents",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "contact",
@@ -315,11 +350,11 @@
       },
       {
         "id": "payment",
-        "enabled": true
+        "enabled": false
       },
       {
         "id": "videos",
-        "enabled": true
+        "enabled": false
       }
     ]
   },
@@ -336,17 +371,17 @@
     "galleryImages": [
       {
         "id": "wjrh11r5p",
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/payment-gallery-0_2025-09-23T17-23-13.jpg",
+        "imageUrl": "",
         "alt": "detergent1",
         "caption": "",
-        "thumbnailUrl": "idb://vm-images/img-1758610207378-48rtpit5"
+        "thumbnailUrl": ""
       },
       {
         "id": "52g3nif3aga",
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/payment-gallery-1_2025-09-23T17-23-13.jpg",
+        "imageUrl": "",
         "alt": "detergent2",
         "caption": "",
-        "thumbnailUrl": "idb://vm-images/img-1758610207382-vppuamha"
+        "thumbnailUrl": ""
       }
     ],
     "galleryTitle": "Product Gallery",
@@ -361,54 +396,16 @@
   "videos": {
     "title": "Videos",
     "subtitle": "See our work in action",
-    "items": [
-      {
-        "title": "",
-        "subtitle": "",
-        "provider": "youtube",
-        "url": "",
-        "autoplay": false,
-        "controls": true,
-        "loop": false,
-        "muted": false,
-        "volume": 100
-      }
-    ]
+    "items": []
   },
   "upcomingEvents": {
     "title": "Upcoming Events",
     "subtitle": "Join us for these exciting upcoming events",
-    "items": [
-      {
-        "id": "o8uf6ehh0t9",
-        "title": "Detergent2",
-        "description": "Join us for this special detergent2 event.",
-        "eventType": "Special Event",
-        "date": "2025-10-23",
-        "time": "18:00",
-        "capacity": "20-50 guests",
-        "pricePerPerson": "$80",
-        "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/event-1_2025-09-23T17-23-12.jpg",
-        "alt": "detergent2 event",
-        "externalLinks": [],
-        "imageGallery": [
-          {
-            "url": "idb://vm-images/img-1758607585873-t2386ys4",
-            "alt": "Fiori Drink",
-            "caption": ""
-          },
-          {
-            "url": "idb://vm-images/img-1758607585893-ogzw4zbf",
-            "alt": "Fiori Lunch menu",
-            "caption": ""
-          }
-        ]
-      }
-    ]
+    "items": []
   },
   "colorPalette": {
-    "primary": "#4a10b7",
-    "secondary": "#6B7280"
+    "primary": "#005B96",
+    "secondary": "#FFCC00"
   },
   "businessName": "Caccia's Home Services",
   "menu": {
@@ -419,10 +416,12 @@
         "id": "lunch",
         "name": "Lunch",
         "description": "Fresh lunch options available daily",
+        "canvaEmbedUrl": "",
+        "htmlContent": "",
         "menuImages": [
           {
             "id": "kxz0yczr75r",
-            "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/menu-tab-0-menu-image-0_2025-09-27T15-10-35.png",
+            "imageUrl": "",
             "alt": "food",
             "caption": ""
           }
@@ -432,70 +431,35 @@
             "id": "burgers",
             "name": "Burgers",
             "description": "Handcrafted burgers made with premium ingredients",
-            "items": [
-              {
-                "id": "od2mt9xwpw",
-                "title": "Burger",
-                "description": "burger description here",
-                "price": "$10.00",
-                "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/menu-tab-0-cat-0-item-0-image_2025-09-27T15-10-39.jpg",
-                "alt": "burger",
-                "thumbnailUrl": "idb://vm-images/img-1758603442069-apzfzvoz",
-                "dietary": []
-              },
-              {
-                "id": "e1spgiiz5nn",
-                "title": "Fries",
-                "description": "fries description here",
-                "price": "$5.00",
-                "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/menu-tab-0-cat-0-item-1-image_2025-09-27T15-10-43.jpg",
-                "alt": "fries",
-                "thumbnailUrl": "idb://vm-images/img-1758604672747-la7lqaef",
-                "dietary": []
-              }
-            ]
+            "layoutStyle": "mosaic",
+            "cardSize": 1,
+            "items": []
           }
-        ],
-        "htmlContent": "<div style=\"margin-bottom: 2rem;\">\n  <h1 style=\"font-size: clamp(1.5rem, 5vw, 2rem); font-weight: 800;\">Lunetta</h1>\n  <p style=\"color: #666;\">Lunch • 11:30–3:00 | Downtown | Seasonal</p>\n</div>\n\n<h2>Lunch Menu</h2>\n<p style=\"color: #666; font-size: 1.1em;\">Fresh, seasonal plates crafted with local produce and housemade breads.</p>\n\n<hr>\n\n<h2>Starters</h2>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Citrus Ceviche</strong> — $14<br>\n  <span style=\"color: #666; font-size: 0.9em;\">White fish, lime, ají limo, red onion, sweet potato, cancha.</span><br>\n  <span style=\"background: #f3f4f6; padding: 0.25rem 0.5rem; border-radius: 999px; font-size: 0.75em;\">Gluten-free</span>\n</div>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Roasted Tomato Soup</strong> — $9<br>\n  <span style=\"color: #666; font-size: 0.9em;\">San Marzano tomatoes, basil oil, garlic croutons, cream swirl.</span><br>\n  <span style=\"background: #f3f4f6; padding: 0.25rem 0.5rem; border-radius: 999px; font-size: 0.75em;\">Vegetarian</span>\n</div>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Crispy Calamari</strong> — $13<br>\n  <span style=\"color: #666; font-size: 0.9em;\">Lemon zest batter, parsley, smoked paprika aioli.</span>\n</div>\n\n<hr>\n\n<h2>Mains</h2>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Grilled Chicken Panino</strong> — $16<br>\n  <span style=\"color: #666; font-size: 0.9em;\">Herb-marinated chicken, provolone, arugula, confit tomato, basil mayo on ciabatta.</span>\n</div>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Quinoa Power Bowl</strong> — $15<br>\n  <span style=\"color: #666; font-size: 0.9em;\">Tri-color quinoa, avocado, roasted squash, chickpeas, pepitas, citrus vinaigrette.</span><br>\n  <span style=\"background: #f3f4f6; padding: 0.25rem 0.5rem; border-radius: 999px; font-size: 0.75em;\">Vegan</span>\n</div>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Seared Salmon</strong> — $22<br>\n  <span style=\"color: #666; font-size: 0.9em;\">Brown butter glaze, fennel-orange salad, herbed farro.</span>\n</div>\n\n<hr>\n\n<h2>Sides</h2>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Hand-cut Fries</strong> — $6<br>\n  <span style=\"color: #666; font-size: 0.9em;\">Sea salt, rosemary, garlic aioli.</span>\n</div>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Market Greens</strong> — $7<br>\n  <span style=\"color: #666; font-size: 0.9em;\">Mixed lettuces, radish, cucumber, lemon-herb dressing.</span>\n</div>\n\n<hr>\n\n<h2>Desserts</h2>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Lemon Posset</strong> — $8<br>\n  <span style=\"color: #666; font-size: 0.9em;\">Silky lemon cream, macerated berries, shortbread crumb.</span>\n</div>\n\n<div style=\"padding: 1rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fff; margin-bottom: 1rem;\">\n  <strong>Chocolate Torte</strong> — $9<br>\n  <span style=\"color: #666; font-size: 0.9em;\">Flourless dark chocolate, espresso whip, cocoa nibs.</span>\n</div>\n\n<hr>\n\n<h2>Beverages</h2>\n\n<p><strong>House Lemonade</strong> — $5<br>\n<em>Fresh lemon, raw sugar, mint.</em></p>\n\n<p><strong>Cold Brew</strong> — $5<br>\n<em>12-hour steep, chocolate notes.</em></p>\n\n<p><strong>Iced Tea</strong> — $4<br>\n<em>Black or peach herbal, lightly sweetened.</em></p>\n\n<p><strong>Sparkling Water</strong> — $3<br>\n<em>Lime twist.</em></p>\n\n<hr>\n\n<p style=\"color: #666; font-size: 0.9em;\"><em>Allergies? Please inform the team. Cross-contact may occur in a shared kitchen.</em></p>"
+        ]
       },
       {
         "id": "dinner",
         "name": "Dinner",
         "description": "Delicious dinner selections for a perfect evening",
         "canvaEmbedUrl": "",
+        "htmlContent": "",
         "menuImages": [],
         "categories": [
           {
             "id": "seafood",
             "name": "Seafood",
             "description": "Fresh catches prepared to perfection",
-            "items": [
-              {
-                "id": "grilled-salmon",
-                "title": "Grilled Salmon",
-                "description": "Fresh Atlantic salmon grilled to perfection, served with seasonal vegetables and lemon herb butter.",
-                "price": "$22.99",
-                "imageUrl": "https://eejrhvuxthdbmyyiubnr.supabase.co/storage/v1/object/public/vm-sites/public/d6adff42-ebc6-4aa7-8be7-da8f3e8efaa1/solarpanelslebanon.com/menu-tab-1-cat-0-item-0-image_2025-09-27T15-10-46.jpg",
-                "alt": "Grilled salmon with vegetables",
-                "dietary": [
-                  "Gluten-Free"
-                ],
-                "thumbnailUrl": "idb://vm-images/img-1758604786414-oyoyddk2"
-              }
-            ]
+            "layoutStyle": "carousel",
+            "cardSize": 1,
+            "items": []
           }
         ]
       }
     ]
   },
-  "video": {
-    "title": "See Our Work in Action",
-    "subtitle": "Watch how we deliver exceptional service to our customers",
-    "provider": "vimeo",
-    "url": "<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/1115564084?h=2680f90689\" width=\"640\" height=\"360\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share\" allowfullscreen></iframe>",
-    "autoplay": false,
-    "controls": true,
-    "loop": false,
-    "muted": false
+  "_meta": {
+    "createdAt": "2025-10-16T14:59:55.049Z",
+    "source": "start",
+    "cid": "0x865be3ac3622b813:0xf0479d7a7c89eda8"
   }
 }
